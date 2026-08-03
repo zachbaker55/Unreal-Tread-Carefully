@@ -1,7 +1,4 @@
-# Baker-G300-Final
-
-## Zachary Baker - Final Project for G300
-Name: Tread Carefully!
+# Zachary Baker - Tread Carefully!
 
 ### What I have:
 
